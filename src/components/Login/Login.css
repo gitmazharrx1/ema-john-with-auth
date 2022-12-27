@@ -1,0 +1,41 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.google{
+    display: flex;
+    justify-content: center;
+}
+.google-btn{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: white;
+    width: 415px;
+    height: 55px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.form-field{
+    width: 415px;
+    height: 55px;
+    border-radius: 10px;
+}
+.login-btn{
+    width: 420px;
+    height: 55px;
+    background-color: rgba(255, 153, 0, 0.3);
+    margin-top: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.link{
+    text-decoration: none;
+    color: rgba(255, 153, 0, 1);
+    cursor: pointer;
+}
